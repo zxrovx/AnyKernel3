@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=RaveX-Kernel-(Unstable)
+kernel.string=Thicc-Kernel by @titidlancip
 do.devicecheck=0
 do.modules=0
 do.systemless=1
